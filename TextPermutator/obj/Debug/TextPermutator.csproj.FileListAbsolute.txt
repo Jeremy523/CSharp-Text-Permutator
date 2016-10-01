@@ -1,0 +1,6 @@
+D:\Programming Practice\TextPermutator\TextPermutator\bin\Debug\TextPermutator.exe.config
+D:\Programming Practice\TextPermutator\TextPermutator\bin\Debug\TextPermutator.exe
+D:\Programming Practice\TextPermutator\TextPermutator\bin\Debug\TextPermutator.pdb
+D:\Programming Practice\TextPermutator\TextPermutator\obj\Debug\TextPermutator.csprojResolveAssemblyReference.cache
+D:\Programming Practice\TextPermutator\TextPermutator\obj\Debug\TextPermutator.exe
+D:\Programming Practice\TextPermutator\TextPermutator\obj\Debug\TextPermutator.pdb
