@@ -4,6 +4,8 @@
 - How can I test it?
     - You'd need to open this up in Visual Studio and run it with CTRL+F5
     - To change the input or check out the output, navigate to TextPermutator/bin/Debug/ and you should find both input.txt and output.txt
+- Where is the source code?
+    - Navigate to TextPermutator/Program.cs
 - More about this project
     - This project was created in Visual Studio as a learning experience for me
 - Bugs!
