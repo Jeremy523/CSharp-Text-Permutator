@@ -90,6 +90,8 @@ namespace TextPermutator
         // EXPERIMENTAL IMPLEMENTATION                                                //
         // -------------------------------------------------------------------------- //
 
+        // Look into overhauling the current algorithm
+
         // NOTE: "^" is an exclusive-OR operator. thus, x ^= y is the same as to x = x ^ y
         // not gonna lie, a bit iffy about this one but it works
         static void Swap(ref char a, ref char b)

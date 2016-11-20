@@ -7,7 +7,7 @@
 - Where is the source code?
     - Navigate to TextPermutator/Program.cs
 - More about this project
-    - This project was created in Visual Studio as a learning experience for me
+    - This project was created in Visual Studio as a learning experience
 - Bugs!
     - At a certain length of input (meaning if a word is too long), the program will take an incredibly long time to complete
         - Look into altering or just overhauling the current algorithm
